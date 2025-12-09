@@ -9,6 +9,8 @@ Welcome to the DocTest User Guide! This comprehensive guide will help you unders
 3. [Advanced Features](#advanced-features)
 4. [Best Practices](#best-practices)
 5. [FAQ](#faq)
+6. [Getting Help](#getting-help)
+7. [Next Steps](#next-steps)
 
 ## Introduction
 

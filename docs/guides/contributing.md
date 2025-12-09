@@ -275,18 +275,18 @@ Example PR description:
 ```markdown
 ## Changes
 
-- Added new feature X
-- Fixed bug Y
+- Added new feature X *(replace with actual feature description)*
+- Fixed bug Y *(replace with actual bug description)*
 - Updated documentation
 
 ## Related Issues
 
-Closes #123
+Closes #123 *(replace with actual issue number)*
 
 ## Testing
 
-- Added unit tests
-- Tested manually on Chrome, Firefox
+- Added unit tests *(describe what you tested)*
+- Tested manually on Chrome, Firefox *(or your testing environment)*
 - All existing tests pass
 
 ## Screenshots
